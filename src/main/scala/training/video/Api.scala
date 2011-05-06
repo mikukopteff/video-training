@@ -1,4 +1,4 @@
-package fi.reaktor.training.video
+package training.video
 
 import org.scalatra.ScalatraServlet
 import org.scalatra.fileupload.FileUploadSupport

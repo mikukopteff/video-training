@@ -3,7 +3,7 @@
 <web-app>
   <servlet>
     <servlet-name>Api</servlet-name>
-    <servlet-class>fi.reaktor.training.video.Api</servlet-class>
+    <servlet-class>training.video.Api</servlet-class>
   </servlet>
 
   <servlet-mapping>

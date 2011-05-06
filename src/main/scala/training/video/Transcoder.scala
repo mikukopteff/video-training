@@ -1,4 +1,4 @@
-package fi.reaktor.training.video
+package training.video
 
 import java.lang.ProcessBuilder
 import scala.collection.JavaConversions._
