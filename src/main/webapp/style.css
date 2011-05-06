@@ -1,0 +1,4 @@
+#playlist {list-style-type:none;margin-left:680px;}
+#playlist li {background: #DDD; -moz-border-radius: 5px; padding: 5px 15px; margin-bottom: 12px;}
+
+a.upload {display: block; margin-bottom: 5px;}

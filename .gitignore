@@ -1,0 +1,14 @@
+lib_managed/
+target/
+bin/
+project/build/target/
+project/build/lib_managed/
+project/boot/
+project/plugins/lib_managed/
+project/plugins/project/
+project/plugins/src_managed/
+project/plugins/target/
+*.iml
+*.ipr
+*.iws
+.idea

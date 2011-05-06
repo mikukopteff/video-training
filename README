@@ -1,0 +1,1 @@
+This is a very simple and small video training project to transcode videos with FFmpeg and  publish them with in Flash using Flowplayer. It only contains a couple of scala classes and the code is made for pedagocical purposes. Please feel free to do anything you want with it. You have to install a rtmp server and also Ffmpeg (version higher then git-N-29169-g7e2eb4b).
